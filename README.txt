@@ -1,3 +1,10 @@
+MW-Portfolio Outcome 3+4 Optimisation, 30 May 2025
+
+I have further optimised my website:
+*Added Logo to navbar corner
+*Added comments explaining code throughout
+*Added a blog and a services page to the site
+
 MW-Portfolio Outcome 2 Optimisation
 
 SEO optimisation techniques that I have used to improve search result placement for my website:

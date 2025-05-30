@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 546.1 540.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00aeef;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #cb4e9c;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: BDConsoleVariable, 'BD Console';
+        font-size: 72px;
+        font-variation-settings: 'GAME' 100;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #a74c9c;
+      }
+
+      .cls-5 {
+        font-family: EngraversMT, 'Engravers MT';
+        font-size: 61.06px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.15em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x=".5" y=".5" width="545.1" height="539.87"/>
+  <ellipse class="cls-1" cx="277.62" cy="275.99" rx="261.44" ry="258.5"/>
+  <text class="cls-4" transform="translate(47.98 219.13) scale(.96 1)"><tspan class="cls-5"><tspan x="0" y="0">MORGAN</tspan></tspan><tspan class="cls-5"><tspan class="cls-6" x="0" y="73.28">W</tspan><tspan x="62.46" y="73.28">AUGH</tspan></tspan><tspan class="cls-3"><tspan x="0" y="159.68">Portfolio</tspan></tspan></text>
+</svg>
